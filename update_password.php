@@ -31,7 +31,6 @@
     border-radius: 20px;
 	font-size: 20px;
 	
-	
 		}
 		.form-control
 		{
